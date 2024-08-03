@@ -1,2 +1,2 @@
-public class person {
+public class Person {
 }
